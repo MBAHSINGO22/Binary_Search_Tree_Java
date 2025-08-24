@@ -1,4 +1,4 @@
-# 📝 BinarySearch_Tree_Java
+# 📝 BinarySearchTree_Java
 
 Implementasi Binary Search Tree di Java.  
 Proyek pembelajaran Java yang menunjukkan struktur data Binary Search Tree dengan operasi penambahan dan pencarian node.
